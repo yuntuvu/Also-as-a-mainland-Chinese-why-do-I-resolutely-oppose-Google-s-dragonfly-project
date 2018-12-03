@@ -78,7 +78,7 @@ Google 和百度都是商业公司，商人逐利，天经地义。区别就在�
 何况，即使做出没有底线的妥协，Google 也不见得能够在华健康成长
 ----------------------------------
 
-各位难道忘了 Google 为何做出「退出」中国的举动了吗？各位难道忘了「妈妈和儿子」的事情了吗？Google 2006 年「入华」之后难道不是在李开复的带领下持续对中国大陆地区的各种莫名其妙的要求不断妥协吗？可是依旧遭人构陷啊。而且这构陷的手段是如此拙劣与下作。
+各位难道忘了 Google 为何做出「退出」中国的举动了吗？各位难道忘了「妈妈和儿子」的事情了吗？<sup>[5], [6]</sup> Google 2006 年「入华」之后难道不是在李开复的带领下持续对中国大陆地区的各种莫名其妙的要求不断妥协吗？可是依旧遭人构陷啊。而且这构陷的手段是如此拙劣与下作。
 
 而且诸位应该记得，那还是 2009 年，中国互联网的言论鼎盛时段。对比当下的互联网环境，诸位觉得，这次 Google 要做出怎样的妥协方能「在华」生存下去呢？
 
@@ -160,3 +160,7 @@ Google 的服务并非「搜索」一项，而是一个完整的生态。作为�
 [3] 维基百科编者．谷歌退出中國大陸事件 [G/OL]．：https://zh.wikipedia.org/w/index.php?title=%E8%B0%B7%E6%AD%8C%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BA%8B%E4%BB%B6&oldid=51909673, 获取于 2018 年 12 月 3 日．
 
 [4] Google Inc. *Google Transparency Report: Traffic and Disruptions* [R/OL].: https://transparencyreport.google.com/traffic/overview, retrieved at 3 December 2018.
+
+[5] 可能吧．Google，你不应该服务中国大陆 [EB/OL]．：https://kenengba.com/post/1232.html, 获取于 2018 年 12 月 3 日．
+
+[6] cksle．用数据说话，看 Google 怎样被陷害 [EB/OL]．：https://groups.google.com/forum/#!topic/fwolf-webtemp/yuCRyakUHpw, 获取于 2018 年 12 月 3 日．

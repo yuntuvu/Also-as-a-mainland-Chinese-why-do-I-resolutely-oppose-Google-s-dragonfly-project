@@ -143,7 +143,7 @@ Google 和百度都是商业公司，商人逐利，天经地义。区别就在�
 
 然而这却活生生地暴露出了原作者即对 Google 的服务生态不了解，也对中国大陆地区的 Google 用户不了解。其原文中这一既荒谬又可笑的推断没有丝毫站得住脚的成分。
 
-Google 的服务并非「搜索」一项，而是一个完整的生态。作为一个重度用户，我从 2005 年开始使用 Google 的另一项服务——Gmail, 并从此陷入 Google 的生态圈不可自拔。并且我自认为，Google 比起 Apple, 为用户营造了更好、更自由的生态环境。以我个人为例，除却 Google Search 外，我还严重依赖 Gmail, Google Docs, Google Calendar, Google One (付费), YouTube (付费订阅 Premium 家庭套餐), Google Voice (付费), Google Play (严重氪金), Google Play Music (除订阅外也有很多购买), Google Cloud Platform, Google Photos 等等，并且我至今没有找到 Google Reader 的完美的替代品。我使用 Google 的服务来帮助我的日常工作与生活，它们是我每天生活的必须，并且这也是世界上绝大多数国家中的许多人使用 Google 的目的。根本不是原作者所推想的那种仅限于「热衷于搜索敏感词」的边缘人用来「搜索敏感词」的工具。如果你认为 Google 的服务是可以避开的，并举出一串的替代品，那就真的说明了你对国际互联网目前的状况已经十分不了解了。实际情况是，完整的 Google 服务已经与全世界绝大多数正常地区的人民的工作、生活密不可分。
+Google 的服务并非「搜索」一项，而是一个完整的生态。作为一个重度用户，我从 2005 年开始使用 Google 的另一项服务——Gmail, 并从此陷入 Google 的生态圈不可自拔。并且我自认为，Google 比起 Apple, 为用户营造了更好、更自由的生态环境。以我个人为例，除却 Google Search 外，我还严重依赖 Gmail, Google Docs, Google Calendar, Google One (付费), YouTube (付费订阅 Premium 家庭套餐), Google Voice (付费), Google Play (严重氪金), Google Play Music (除订阅外也有很多购买), Google Cloud Platform, Google Photos 等等，并且我至今没有找到 Google Reader 的完美的替代品。我使用 Google 的服务来帮助我的日常工作与生活，它们是我每天生活的必须，并且这也是世界上绝大多数国家中的许多人使用 Google 的目的。根本不是原作者所推想的那种仅限于「热衷于搜索敏感词」的「边缘人」用来「搜索敏感词」的工具。如果你认为 Google 的服务是可以避开的，并举出一串的替代品，那就真的说明了你对国际互联网目前的状况已经十分不了解了。实际情况是，完整的 Google 服务已经与全世界绝大多数正常地区的人民的工作、生活密不可分。
 
 只局限于「墙」内的用户是无法想象目前的国际互联网是有多么地依赖 Google Docs 来完成协作办公。只局限于「墙」内的用户恐怕无法想象，你们在「B」站上所热爱的那些每天全职为你们创作视频的「Up 主」们，他们的主要收入来源其实是 YouTube 而非「B」站。很多「B」站上的全职「Up 主」们唯有通过把视频搬运到 YouTube 才能获得可以维持自由职业者的收入，尽管你们觉得在「墙」内的观众数量是 YouTube 上的数倍甚至数十倍，然而即使事实如此，「B」站能够提供给「Up 主」们的广告收入却一般只有 YouTube 上的 1/10 甚至更低。
 

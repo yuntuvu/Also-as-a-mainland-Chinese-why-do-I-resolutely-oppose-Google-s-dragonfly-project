@@ -153,6 +153,8 @@ Google 的服务并非「搜索」一项，而是一个完整的生态。作为�
 
 当然，信奉「For the Greater Good」的人并不会在乎，他们只看重他们所假想出来的「更大的利益」，转动电车去轧死一人有什么，为了集体饿死几百万人又有什么。在「更大的利益」面前，只有一件事情他们不会去做，那就是自杀，然后把器官捐献给亟需器官移植的人。
 
+（最后，**利益相关**：我**不是**开发者，请不要攻击我说什么只有一个 repository 的无名小号，是因为对方在 GitHub 上 Po 文，我才来此撰文的。）
+
 [1] ithinco．我是中国人，谷歌的蜻蜓项目必须继续 [EB/OL]．：https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on, 获取于 2018 年 12 月 3 日．
 
 [2] Drummond, David. 关于谷歌中国的最新声明 [EB/OL].: https://www.google.com/press/new-approach-to-china/update.html, retrieved at 3 December 2018.
